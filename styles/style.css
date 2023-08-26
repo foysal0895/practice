@@ -1,5 +1,45 @@
+*body{
+    margin: 30px;
+}
+
+.three-item{
+    padding-top: 174px;
+    padding-left: 307px;
+    padding-right: 307px;
+}
+.btn-center{
+    padding-top:200px ;
+    padding-left:270px ;
+    padding-right: 660px;
+}
+
+.title{
+    text-align: center;
+    color: white;
+}
+.pharagraph{
+    color: chartreuse;
+text-align: center;
+font-family: Poppins;
+
+}
+.btn{
+    background-color: wheat;
+    border-radius: 15px;
+    color:black;
+    padding: 20px;
+    
+}
+.background{
+    margin-bottom: 50px;
+    width: 100%;
+    height: 669px;
+    background-image: url(/images/donation0.jpg);
+    background-size: 100% ;
+}
 .Donate{
     text-align: center;
+
 }
 .Lorem{
     text-align: center;
@@ -8,3 +48,135 @@
     font-size: 18px;
 
 }
+.main{
+    margin-bottom: 50px;
+    text-align: center;
+    padding-left: 362px;
+    padding-right: 362px;
+    padding: auto;
+    background-color:white;
+}
+
+
+.Donate-taka{
+    display: flex;
+    gap: 50px;
+    text-align: center;
+}
+.hundred{
+   padding-top: 43px;
+   padding-bottom: 43px;
+   padding-left: 24px;
+   padding-right: 24px; 
+   color: #707070;  
+   font-size: larger;
+}
+.two{
+    padding-top: 43px;
+    padding-bottom: 43px;
+    padding-left: 24px;
+    padding-right: 24px; 
+    color: #707070;  
+    font-size: larger;
+}
+.three{
+    padding-top: 43px;
+    padding-bottom: 43px;
+    padding-left: 24px;
+    padding-right: 24px; 
+    color: #707070;  
+    font-size: larger;
+}
+.four{
+    padding-top: 43px;
+    padding-bottom: 43px;
+    padding-left: 24px;
+    padding-right: 24px; 
+    color: #707070;  
+    font-size: larger;
+}
+.donate-othertype-btn{
+    background-color: wheat;
+    border-radius: 15px;
+    color:black;
+    padding: 20px;
+}
+/* our donate plan */
+.our{
+    text-align: center;
+    
+}
+.phara{
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.our-donate-plan{
+    margin-bottom: 50px;
+    display: flex;
+     padding-left:280px ;
+     padding-right: 280px;
+     padding: auto;
+     gap: 20px;
+}
+.food{
+    background-color: antiquewhite;
+    
+}
+.shelter{
+    background-color: aqua;
+}
+.education{
+    background-color: gray;
+}
+/* Their lives depend on your donation */
+.their-lives{
+    display: flex;
+    margin-bottom: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+    gap: 50px;
+}
+.btn{
+    background-color: #707070;
+}
+/* They need us to suvive */
+.they-need{
+   display: flex;
+   padding-right: 100px;
+   padding-left: 100px;
+   gap: 50px;
+    padding-bottom: 50px;
+}
+
+.btn{
+    background-color: #707070;
+}
+/* Get My Updates */
+.get-my{
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.T-btn{
+    display: flex;
+
+}
+.e-btn{
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 15px;
+    padding-right: 150px;
+}
+
+.subscribe{
+    background-color: orangered;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+
+
+
+
+
